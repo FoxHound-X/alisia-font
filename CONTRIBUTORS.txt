@@ -1,4 +1,6 @@
 # Contributors to the Alisia project
+# This file lists all individuals and entities having submitted code, feedback, or issues.
+# For how it is used, see https://googlefonts.github.io/gf-guide/copyright.html
 
 FoxHound-X <https://github.com/FoxHound-X>
 Setia AI Typography Lab <https://github.com/SetiaAI>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" default="400" maximum="700">
+      <map input="400" output="400" />
+      <map input="500" output="500" />
+      <map input="700" output="700" />
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Alisia-Regular.ttx" familyname="Alisia" stylename="Regular" name="Alisia Regular">
+      <location>
+        <dimension name="Weight" xvalue="400" />
+      </location>
+    </source>
+    <source filename="Alisia-Medium.ttx" familyname="Alisia" stylename="Medium" name="Alisia Medium">
+      <location>
+        <dimension name="Weight" xvalue="500" />
+      </location>
+    </source>
+    <source filename="Alisia-Bold.ttx" familyname="Alisia" stylename="Bold" name="Alisia Bold">
+      <location>
+        <dimension name="Weight" xvalue="700" />
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Alisia" stylename="Regular" name="Alisia Regular" filename="Alisia-Regular.ttf">
+      <location>
+        <dimension name="Weight" xvalue="400" />
+      </location>
+    </instance>
+    <instance familyname="Alisia" stylename="Medium" name="Alisia Medium" filename="Alisia-Medium.ttf">
+      <location>
+        <dimension name="Weight" xvalue="500" />
+      </location>
+    </instance>
+    <instance familyname="Alisia" stylename="Bold" name="Alisia Bold" filename="Alisia-Bold.ttf">
+      <location>
+        <dimension name="Weight" xvalue="700" />
+      </location>
+    </instance>
+  </instances>
+</designspace>

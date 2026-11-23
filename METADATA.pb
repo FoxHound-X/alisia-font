@@ -10,7 +10,7 @@ fonts {
   filename: "Alisia-Regular.ttf"
   post_script_name: "Alisia-Regular"
   full_name: "Alisia Regular"
-  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/font-alisia)"
+  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/alisia-font)"
 }
 fonts {
   name: "Alisia"
@@ -19,7 +19,7 @@ fonts {
   filename: "Alisia-Medium.ttf"
   post_script_name: "Alisia-Medium"
   full_name: "Alisia Medium"
-  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/font-alisia)"
+  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/alisia-font)"
 }
 fonts {
   name: "Alisia"
@@ -28,7 +28,7 @@ fonts {
   filename: "Alisia-Bold.ttf"
   post_script_name: "Alisia-Bold"
   full_name: "Alisia Bold"
-  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/font-alisia)"
+  copyright: "Copyright 2026 The Alisia Project Authors (https://github.com/FoxHound-X/alisia-font)"
 }
 subsets: "latin"
 subsets: "latin-ext"
