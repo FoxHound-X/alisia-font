@@ -1,0 +1,4 @@
+# Authors of the Alisia project
+
+FoxHound-X <https://github.com/FoxHound-X>
+Setia AI Typography Lab <https://github.com/SetiaAI>

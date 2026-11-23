@@ -1,0 +1,35 @@
+FONTLOG for the Alisia font family
+
+This file provides detailed information on the Alisia font Software.
+This information should be distributed along with the Alisia fonts
+and any derivative works.
+
+Basic Font Information
+
+Alisia is a contemporary, humanistic sans-serif typeface designed for
+extended, fatigue-free reading across digital screens and print. Featuring
+gentle curves, open apertures, generous sidebearings, and natural
+saccadic rhythm.
+
+ChangeLog
+
+22 Nov 2026 (FoxHound-X & Setia AI) Alisia v1.000
+- Initial release under SIL Open Font License v1.1.
+- Project repository: https://github.com/FoxHound-X/font-alisia
+- Engineered 3 weights: Regular (400), Medium (500), Bold (700).
+- Calibrated zero-crowding sidebearings (+16 units) and 265 units word space.
+- Full OpenType CFF, TrueType, and Brotli WOFF2 webfont builds.
+- Complete Google Fonts submission bundle (METADATA.pb, DESCRIPTION, OFL).
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if any) and description (D) to the list below.
+
+N: FoxHound-X
+W: https://github.com/FoxHound-X/font-alisia
+D: Project Lead & Author
+
+N: Setia AI Typography Lab
+W: https://github.com/SetiaAI
+D: Typography Engineering & Optimization
